@@ -19,4 +19,10 @@
 - Use of Power Query to clean data.
 - Check dates of the data
 ## Analysis
-
+According to the instructions based on the mockup we add every visual it tells on the page called "Overview Page"
+but we add an additional page called "Addional Insights" where we are going to indicate our insights and how we've found them
+- Insight n1
+- Insight n2
+- Insight n3
+- Insight n4
+## Recommendation
