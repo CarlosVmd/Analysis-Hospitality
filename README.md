@@ -21,8 +21,10 @@
 ## Analysis
 Following the instructions based on the mockup we added all the visual elements listed on the page titled "Overview Page". 
 But we also added an additional page titled "Addional Insights" where we will present our conclusions and how we reach them.
-- Insight n1
-- Insight n2
-- Insight n3
-- Insight n4
+### Insight n1
+We have verified that, in both business and luxury categories revenue has declined over the last month.
+### Insight n2
+We total bookings
+### Insight n3
+### Insight n4
 ## Recommendation
