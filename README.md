@@ -22,9 +22,10 @@
 Following the instructions based on the mockup we added all the visual elements listed on the page titled "Overview Page". 
 But we also added an additional page titled "Addional Insights" where we will present our conclusions and how we reach them.
 ### Insight n1
-We have verified that, in both business and luxury categories revenue has declined over the last month.
+We have verified that, in both business and luxury categories revenue has declined over the last month. So we are going to focus solely on weeks within that period.
 ### Insight n2
-We total bookings
+Total bookings has also declined over the past few weeks and it's correlated to revenue: If there are no reservations, there is no revenue.
 ### Insight n3
+In both categories, properties bookings has declined
 ### Insight n4
 ## Recommendation
