@@ -26,6 +26,8 @@ We have verified that, in both business and luxury categories revenue has declin
 ### Insight n2
 Total bookings has also declined over the past few weeks and it's correlated to revenue: If there are no reservations, there is no revenue.
 ### Insight n3
-In both categories, properties bookings has declined
+In both categories, properties bookings has declined. Even if a property improves its ranking, its total bookings continues to decline compared to last week.
 ### Insight n4
+RevPar values have declined over the same period.
+RevPar helps hotels measure their revenue generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
 ## Recommendation
