@@ -30,4 +30,19 @@ In both categories, properties bookings has declined. Even if a property improve
 ### Insight n4
 RevPar values have declined over the same period.
 RevPar helps hotels measure their revenue generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
+## Conclusion
+Con el análisis establecido gracias a los datos brindados se llegaron a las siguientes conclusiones: 
+1. Los datos muestran efectivamente una caida de las ganancias en las ultimas semanas
+2. La causa directa de que los valores de revenue disminuyeran fue que las reservaciones tambien bajaron, coincidiendo en fechas.
+3. Las bajas reservaciones se reflejan de manera global afectando a todas las propiedades de la empresa.
+4. Se saben que la causa de esta tendencia a la baja no es debido a:
+  - Rating
+  - Booking Status
+  - Any number of guest
 ## Recommendation
+
+Pedir a la empresa obtener datos sobre posibles factores externos significativos que puedan haber afectado directamente a los KPIs como:
+- Market Share: Obtain data on competitors' market share in order to analyze the company's actual situation more accurately.
+- E
+
+
