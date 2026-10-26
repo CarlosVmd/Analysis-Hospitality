@@ -17,7 +17,15 @@
   - Understand the business logic of dataSets
 ## Data Quality
 - Use of Power Query to clean data.
+  - Applying ETL
+    - Column distribution
+    - Make sure each column has the correct data type.
+    - Typing errors
+    - Handling null values
+    - Use first row as headers
 - Check dates of the data
+## Data Modeling
+Star schema modeling
 ## Analysis
 Following the instructions based on the mockup we added all the visual elements listed on the page titled "Overview Page". 
 But we also added an additional page titled "Addional Insights" where we will present our conclusions and how we reach them.
