@@ -11,6 +11,9 @@
 - Possible Solution:
   - The enterprise wants to incorporate the project “Business and Data Intelligence” to regain their market share and revenue.
   - However, they do not have an in-house data analytics team to provide them with these insights.
+## Domain Knowledge
+- Throughout the entire process, take into account your understanding of the field to properly address the requirements of the industry to which the company belongs—in this case, the hospitality industry.
+- Apply the understanding of the relevant domain to obtain objective insights that serves as a basis for decision-making
 ## Data Collection
 - First party data.
 - Datasets given by the company
