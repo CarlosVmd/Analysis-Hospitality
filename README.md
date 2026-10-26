@@ -31,18 +31,23 @@ In both categories, properties bookings has declined. Even if a property improve
 RevPar values have declined over the same period.
 RevPar helps hotels measure their revenue generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
 ## Conclusion
-Con el análisis establecido gracias a los datos brindados se llegaron a las siguientes conclusiones: 
-1. Los datos muestran efectivamente una caida de las ganancias en las ultimas semanas
-2. La causa directa de que los valores de revenue disminuyeran fue que las reservaciones tambien bajaron, coincidiendo en fechas.
-3. Las bajas reservaciones se reflejan de manera global afectando a todas las propiedades de la empresa.
-4. Se saben que la causa de esta tendencia a la baja no es debido a:
+Based on the analysis performed using the data provided, our findings were as follows:
+1. The data does indeed show a decline in profits in recent weeks.
+2. The direct cause of the decline in revenue was that reservations also fell during the same time period.
+3. The decline in reservations is reflected across the board, affecting all of the company’s properties.
+4. It is known that the causes of this downward trend are not due to:
   - Rating
   - Booking Status
   - Any number of guest
-## Recommendation
-
-Pedir a la empresa obtener datos sobre posibles factores externos significativos que puedan haber afectado directamente a los KPIs como:
+## Recommendations
+Obtain data on the observed metrics from previous years to check whether this event has already occurred in the past and to identify a possible pattern.
+Request the company to provide information on any significant external factors that may have directly affected the audited KPIs, such as:
 - Market Share: Obtain data on competitors' market share in order to analyze the company's actual situation more accurately.
-- E
+- Economic:
+  - Inflation
+  - Exchange rate fluctuations
+- Political:
+  - Government intervention and market regulation
+ 
 
 
