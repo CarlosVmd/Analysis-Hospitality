@@ -65,7 +65,9 @@ In both categories, properties bookings has declined. Even if a property improve
 ### Insight n4
 RevPar values have declined over the same period.
 RevPar helps hotels measure their revenue generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
-
+<p align="center">
+<img width="672" height="336" alt="image" src="https://github.com/user-attachments/assets/9546f571-4fa7-48ee-ae40-b8cf38adadc6" />
+</p>
 
 ## Conclusion
 Based on the analysis performed using the data provided, our findings were as follows:
