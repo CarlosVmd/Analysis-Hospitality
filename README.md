@@ -34,6 +34,7 @@ Following the instructions based on the mockup we added all the visual elements 
 <div style="text-align:center">
   <img width="600" height="370" alt="mock up dashboard_atliq grands" src="https://github.com/user-attachments/assets/dd866324-889f-4764-b80a-4687e5203afe" />
 </div>
+---
 But we also added an additional page titled "Addional Insights" where we will present our conclusions and how we reach them.
 ### Insight n1
 We have verified that, in both business and luxury categories revenue has declined over the last month. So we are going to focus solely on weeks within that period.
