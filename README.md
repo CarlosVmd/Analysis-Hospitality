@@ -50,6 +50,10 @@ Star schema modeling
 
 ### Insight n1
 We have verified that, in both business and luxury categories revenue has declined over the last month. So we are going to focus solely on weeks within that period.
+<p align="center">
+<img width="577" height="250" alt="image" src="https://github.com/user-attachments/assets/16defbb8-d392-4289-85e9-a150c3efd3f3" />
+</p>
+
 ### Insight n2
 Total bookings has also declined over the past few weeks and it's correlated to revenue: If there are no reservations, there is no revenue.
 ### Insight n3
