@@ -35,6 +35,11 @@ Star schema modeling
 <p align="center">
   <img width="600" height="370" alt="mock up dashboard_atliq grands" src="https://github.com/user-attachments/assets/dd866324-889f-4764-b80a-4687e5203afe" />
 </p>
+```
+<p align="center">
+  <img width="460" height="300" src="https://picsum.photos/460/300">
+</p>
+```
 ### Insight n1
 We have verified that, in both business and luxury categories revenue has declined over the last month. So we are going to focus solely on weeks within that period.
 ### Insight n2
