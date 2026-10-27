@@ -31,11 +31,15 @@
 Star schema modeling
 ## Analysis
 Following the instructions based on the mockup we added all the visual elements listed on the page titled "Overview Page". 
-<img align="left" width="100" height="100" src="https://github.com/user-attachments/assets/dd866324-889f-4764-b80a-4687e5203afe" />
 <p align="center">
-  <img width="460" height="300" src="https://github.com/user-attachments/assets/dd866324-889f-4764-b80a-4687e5203afe" >
+  <img width="460" height="300" src="https://picsum.photos/460/300">
 </p>
----
+
+```
+<p align="center">
+  <img width="460" height="300" src="https://picsum.photos/460/300">
+</p>
+```
 But we also added an additional page titled "Addional Insights" where we will present our conclusions and how we reach them.
 ### Insight n1
 We have verified that, in both business and luxury categories revenue has declined over the last month. So we are going to focus solely on weeks within that period.
