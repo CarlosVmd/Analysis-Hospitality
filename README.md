@@ -50,17 +50,23 @@ Star schema modeling
 
 ### Insight n1
 We have verified that, in both business and luxury categories revenue has declined over the last month. So we are going to focus solely on weeks within that period.
+### Insight n2
+Total bookings has also declined over the past few weeks and it's correlated to revenue: If there are no reservations, there is no revenue.
 <p align="center">
 <img width="577" height="250" alt="image" src="https://github.com/user-attachments/assets/16defbb8-d392-4289-85e9-a150c3efd3f3" />
 </p>
 
-### Insight n2
-Total bookings has also declined over the past few weeks and it's correlated to revenue: If there are no reservations, there is no revenue.
 ### Insight n3
 In both categories, properties bookings has declined. Even if a property improves its ranking, its total bookings continues to decline compared to last week.
+<p align="center">
+<img width="600" height="336" alt="image" src="https://github.com/user-attachments/assets/a1be2702-65e9-42a2-8849-ae83e66e813a" />
+</p>
+
 ### Insight n4
 RevPar values have declined over the same period.
 RevPar helps hotels measure their revenue generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
+
+
 ## Conclusion
 Based on the analysis performed using the data provided, our findings were as follows:
 1. The data does indeed show a decline in profits in recent weeks.
