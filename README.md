@@ -27,6 +27,10 @@
     - Handling null values
     - Use first row as headers
 - Check dates of the data
+<p align="center">
+<img width="600" height="370" alt="image" src="https://github.com/user-attachments/assets/79ae5eb9-7cfd-4d32-9100-b739d39a91b0" />
+</p>
+
 ## Data Modeling
 Star schema modeling
 <p align="center">
