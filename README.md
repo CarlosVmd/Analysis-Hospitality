@@ -45,7 +45,7 @@ Star schema modeling
 
 - But we also added an additional page titled "Addional Insights" where we will present our conclusions and how we reach them.
 <p align="center">
-<img width="600" height="370" alt="image" src="https://github.com/user-attachments/assets/d921acca-b51e-4be4-872b-5e76c618a389" />
+<img width="600" height="370" alt="image" src="https://github.com/user-attachments/assets/cc84c847-09ea-4d65-9aae-01ac3b746a48" />
 </p>
 
 ### Insight n1
