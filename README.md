@@ -31,7 +31,7 @@
 Star schema modeling
 ## Analysis
 Following the instructions based on the mockup we added all the visual elements listed on the page titled "Overview Page". 
-<img width="900" height="600" alt="mock up dashboard_atliq grands" src="https://github.com/user-attachments/assets/dd866324-889f-4764-b80a-4687e5203afe" />
+<img width="700" height="350" alt="mock up dashboard_atliq grands" src="https://github.com/user-attachments/assets/dd866324-889f-4764-b80a-4687e5203afe" />
 
 But we also added an additional page titled "Addional Insights" where we will present our conclusions and how we reach them.
 ### Insight n1
