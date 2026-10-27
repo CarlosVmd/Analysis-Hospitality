@@ -59,7 +59,7 @@ Total bookings has also declined over the past few weeks and it's correlated to 
 ### Insight n3
 In both categories, properties bookings has declined. Even if a property improves its ranking, its total bookings continues to decline compared to last week.
 <p align="center">
-<img width="600" height="336" alt="image" src="https://github.com/user-attachments/assets/a1be2702-65e9-42a2-8849-ae83e66e813a" />
+<img width="700" height="336" alt="image" src="https://github.com/user-attachments/assets/a1be2702-65e9-42a2-8849-ae83e66e813a" />
 </p>
 
 ### Insight n4
