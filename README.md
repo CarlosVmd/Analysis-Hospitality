@@ -44,6 +44,10 @@ Star schema modeling
 </p>
 
 - But we also added an additional page titled "Addional Insights" where we will present our conclusions and how we reach them.
+<p align="center">
+<img width="600" height="370" alt="image" src="https://github.com/user-attachments/assets/d921acca-b51e-4be4-872b-5e76c618a389" />
+</p>
+
 ### Insight n1
 We have verified that, in both business and luxury categories revenue has declined over the last month. So we are going to focus solely on weeks within that period.
 ### Insight n2
