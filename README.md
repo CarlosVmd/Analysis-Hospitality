@@ -79,7 +79,7 @@ Based on the analysis performed using the data provided, our findings were as fo
   - Booking Status
   - Any number of guest
 ## Recommendations
-Offer deals and promotions during periods of low bookings to attract the attention of potential customers and thus minimize the impact of low sales.
+<p>Offer deals and promotions during periods of low bookings to attract the attention of potential customers and thus minimize the impact of low sales.</p>
 Obtain data on the observed metrics from previous years to check whether this event has already occurred in the past and to identify a possible pattern.
 Request the company to provide information on any significant external factors that may have directly affected the audited KPIs, such as:
 - Market Share: Obtain data on competitors' market share in order to analyze the company's actual situation more accurately.
