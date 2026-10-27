@@ -29,6 +29,10 @@
 - Check dates of the data
 ## Data Modeling
 Star schema modeling
+<p align="center">
+<img width="1544" height="863" alt="image" src="https://github.com/user-attachments/assets/b0ada065-7acd-4e9e-8a8b-69b5b0255835" />
+</p>
+
 ## Analysis
 - Following the instructions based on the mockup we added all the visual elements listed on the page titled "Overview Page".
 <p align="center">
