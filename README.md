@@ -17,13 +17,11 @@
 ## Data Collection
 - First party data.
 - Datasets given by the company
-  - Dimensional Tables
-    - Date
-    - Hotels
-    - Rooms   
-  - Fact Tables
-    - Aggregated bookings
-    - Bookings    
+  - dim_date
+  - dim_hotels
+  - dim_rooms
+  - fact_aggregated bookings
+  - fact_bookings    
 - Understand the business logic of dataSets
 ## Data Quality
 - Use of Power Query to clean data.
