@@ -17,7 +17,14 @@
 ## Data Collection
 - First party data.
 - Datasets given by the company
-  - Understand the business logic of dataSets
+  - Dimensional Tables
+    - date
+    - hotels
+    - rooms   
+  - Fact Tables
+    - Aggregated bookings
+    - Bookings    
+- Understand the business logic of dataSets
 ## Data Quality
 - Use of Power Query to clean data.
   - Applying ETL
