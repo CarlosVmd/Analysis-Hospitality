@@ -18,9 +18,9 @@
 - First party data.
 - Datasets given by the company
   - Dimensional Tables
-    - date
-    - hotels
-    - rooms   
+    - Date
+    - Hotels
+    - Rooms   
   - Fact Tables
     - Aggregated bookings
     - Bookings    
