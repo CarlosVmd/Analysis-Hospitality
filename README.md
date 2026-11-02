@@ -1,7 +1,7 @@
 # Analysis-Hospitality
 ## Problem Statement
 - **Enterprise:** AtliQ Grands
-  - Owns multiple five-star hotels across India.
+  - Own multiple five-star hotels across India.
   - They have been in the hospitality industry for the past 20 years.
 - **Problem:**
   - Due to
