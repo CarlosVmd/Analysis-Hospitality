@@ -53,6 +53,7 @@ Star schema modeling
 <img width="600" height="370" alt="image" src="https://github.com/user-attachments/assets/cc84c847-09ea-4d65-9aae-01ac3b746a48" />
 </p>
 
+Link to live dashboard: https://app.powerbi.com/view?r=eyJrIjoiNDJjODBhZTItYTJmMC00ZmFiLTkzODktYzFkYTZjNjBmZTE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
 ### Insight n1
 We have verified that, in both business and luxury categories revenue has declined over the last month. So we are going to focus solely on weeks within that period.
 ### Insight n2
